@@ -24,9 +24,6 @@ public class TripBookingFacade {
         // Initialize with some data
         initializeData();
 
-        // Start the application
-        TripBookingApp app = TripBookingApp.getInstance();
-
         System.out.println("Welcome to Trip Booking System!");
         System.out.println("==============================");
 
